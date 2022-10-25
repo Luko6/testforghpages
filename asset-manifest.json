@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testforghpages/static/css/main.073c9b0a.css",
+    "main.js": "/testforghpages/static/js/main.096ae5b3.js",
+    "static/js/787.a0b08976.chunk.js": "/testforghpages/static/js/787.a0b08976.chunk.js",
+    "static/media/logo.svg": "/testforghpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testforghpages/index.html",
+    "main.073c9b0a.css.map": "/testforghpages/static/css/main.073c9b0a.css.map",
+    "main.096ae5b3.js.map": "/testforghpages/static/js/main.096ae5b3.js.map",
+    "787.a0b08976.chunk.js.map": "/testforghpages/static/js/787.a0b08976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.096ae5b3.js"
+  ]
+}
